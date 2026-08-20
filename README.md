@@ -78,7 +78,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### 🚀 Full Stack Development Intern
 
 **Innoknowvex Technologies**  
-📅 July 2026 – Present
+📅 July 2026 
 
 - Building scalable full-stack applications.
 - Working with **React.js, Node.js, Express.js & MongoDB**.
@@ -232,31 +232,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </p>
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sanjayrams-26&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=sanjayrams-26&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrams-26&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
 
 # 🏆 Achievements
 
