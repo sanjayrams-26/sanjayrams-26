@@ -235,29 +235,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=sanjayrams-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-height="180"/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayrams-26&theme=tokyonight&hide_border=true"
-height="180"/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrams-26&layout=compact&theme=tokyonight&hide_border=true"
-height="170"/>
-
-</p>
-
----
 
 # 🏆 Achievements
 
