@@ -1,176 +1,375 @@
-<h1 align="center">Hi 👋, I'm Sanjay Ram S</h1>
-<h3 align="center">Full Stack (MERN) Developer | AI/ML Enthusiast | B.E CSE @ Sri Eshwar College of Engineering</h3>
+<!-- ==================== HERO SECTION ==================== -->
+
+<h1 align="center">
+  Hi 👋, I'm Sanjay Ram S
+</h1>
+
+<h3 align="center">
+  Full Stack Developer 🚀 | AI/ML Enthusiast 🤖 | Cloud Explorer ☁️
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+scalable+web+apps;AWS+Certified+Cloud+Practitioner;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%8C%90;Exploring+AI+%2B+Machine+Learning+%F0%9F%A4%96;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Always+Learning%2C+Building+%26+Growing+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/REPLACE_WITH_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/sanjayrams-26">
+    <img src="https://img.shields.io/github/followers/sanjayrams-26?label=Followers&style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/REPLACE_WITH_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:sanjayram.s2024cse@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://REPLACE_WITH_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sanjayrams-26&label=PROFILE+VIEWS&style=for-the-badge" />
 </p>
 
 ---
 
-### 🎓 About Me
+## 👨‍💻 About Me
 
-- 🎓 Currently pursuing **B.E in Computer Science and Engineering** at **Sri Eshwar College of Engineering** (2024–2028), CGPA **8.70**
-- 💻 Full Stack Developer specializing in the **MERN Stack**
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
-- 🏆 Hackathon enthusiast — 2x Second Prize winner in national-level events
-- 🌱 Exploring AI/ML applications alongside full-stack development
-- 📫 Reach me at **sanjayram.s2024cse@sece.ac.in**
+<img align="right" alt="Coding" width="300"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🎓 B.E. Computer Science & Engineering
+- 🏫 Sri Eshwar College of Engineering
+- 📊 CGPA: **8.70**
+- 💻 Passionate about **Full Stack Development**
+- 🤖 Exploring **AI, ML & Intelligent Systems**
+- ☁️ AWS Certified Cloud Practitioner
+- 🌱 Currently learning **System Design & Advanced Development**
+- 🚀 Open to **Internships, Projects & Collaborations**
+
+📫 **Email:** `sanjayram.s2024cse@sece.ac.in`
+
+<br clear="right"/>
 
 ---
 
-### 💼 Experience
+## 🧭 Quick Navigation
 
-**Full Stack Development Intern** — Innoknowvex Technologies *(July 2026)*
-- Developed a full-stack e-commerce platform with secure authentication, product management, shopping cart, and order processing using the MERN stack.
+<p align="center">
 
-**MERN Stack Developer** — Litz Tech India Private Limited *(Nov 2025)*
-- Built a MERN-based food delivery application with real-time order tracking, secure payments, and role-based access for customers, restaurants, delivery partners, and admins.
+<a href="#-tech-stack">🛠️ Tech Stack</a> •
+<a href="#-featured-projects">🚀 Projects</a> •
+<a href="#-experience">💼 Experience</a> •
+<a href="#-github-analytics">📊 GitHub Stats</a> •
+<a href="#-achievements">🏆 Achievements</a> •
+<a href="#-certifications">📜 Certifications</a>
+
+</p>
 
 ---
 
-### 🚀 Featured Projects
+# 💼 Experience
+
+### 🚀 Full Stack Development Intern
+
+**Innoknowvex Technologies**  
+📅 July 2026
+
+- Building scalable full-stack applications.
+- Working with MERN Stack technologies.
+- Implementing authentication and database systems.
+- Developing responsive user interfaces.
+
+---
+
+### 💻 MERN Stack Developer
+
+**Litz Tech India Private Limited**  
+📅 November 2025
+
+- Built a full-stack food delivery platform.
+- Implemented role-based authentication.
+- Developed real-time order tracking.
+- Integrated secure payment functionality.
+
+---
+
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
-<td width="50%">
 
-**🏨 Hostel Management System** *(Ongoing — June 2026)*
-Full-stack system for room allocation, student registration, fee management, complaints & attendance with role-based dashboards.
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+<td width="50%" valign="top">
+
+### 🏨 Hostel Management System
+
+> A complete digital platform for managing hostel operations.
+
+✨ **Features**
+
+- Student Registration
+- Room Allocation
+- Fee Management
+- Complaint System
+- Attendance Tracking
+- Role-Based Dashboards
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js`  
+`MongoDB` `JWT` `Tailwind CSS`
+
+🔗 [View Repository](https://github.com/sanjayrams-26)
 
 </td>
-<td width="50%">
 
-**🎯 SkillBridge – Internship & Skill Matching Platform** *(May 2026)*
-Connects students with internships, mentors, and recruiters via role-based access, live chat, skill assessments & application tracking.
-`React.js` `Vite` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Recharts`
+<td width="50%" valign="top">
+
+### 🎯 SkillBridge
+
+> Internship and skill matching platform connecting students and opportunities.
+
+✨ **Features**
+
+- Role-Based Access
+- Internship Matching
+- Live Chat
+- Skill Assessments
+- Application Tracking
+- Analytics Dashboard
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js`  
+`MongoDB` `Socket.IO` `JWT`
+
+🔗 [View Repository](https://github.com/sanjayrams-26)
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%">
 
-**🧠 Brain Tumor Detection System** *(March 2025)*
-AI learning engine using CNN-based detection with adaptive study & performance tracking features.
-`Python (Flask)` `TensorFlow` `CNN` `OpenCV` `React.js`
+<td width="50%" valign="top">
+
+### 🤖 SentinelPay AI
+
+> AI-powered transaction risk analysis and intelligent fraud detection.
+
+✨ **Features**
+
+- Transaction Risk Scoring
+- Anomaly Detection
+- Risk Classification
+- Explainable AI
+- Risk Monitoring Dashboard
+
+**Tech Stack**
+
+`React.js` `Node.js` `Python`  
+`Machine Learning` `MongoDB`
+
+🔗 [View Repository](https://github.com/sanjayrams-26)
 
 </td>
-<td width="50%">
 
-**🍔 Food Delivery Platform** *(Nov 2025)*
-Real-time order tracking food delivery app with secure Stripe payments and role-based interfaces.
-`React.js` `Node.js` `Socket.IO` `Stripe` `AWS`
+<td width="50%" valign="top">
+
+### 🧠 Brain Tumor Detection
+
+> AI-powered system for detecting brain tumors using medical images.
+
+✨ **Features**
+
+- CNN-based Detection
+- Image Processing
+- Prediction Dashboard
+- Performance Tracking
+
+**Tech Stack**
+
+`Python` `TensorFlow` `CNN`  
+`OpenCV` `Flask`
+
+🔗 [View Repository](https://github.com/sanjayrams-26)
 
 </td>
+
 </tr>
+
 </table>
 
-> 🔗 Replace the project links above with your actual GitHub repo URLs once you drop this file in your profile repo.
-
 ---
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 👨‍💻 Programming Languages
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
 
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css" />
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Core Concepts:** DSA · OOPS · DBMS · Computer Networks
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%"/>
+### ⚡ Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind" />
+
+</p>
+
+### 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions" />
+
+</p>
+
+### 🔧 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel" />
+
 </p>
 
 ---
 
-### 🧩 Coding Profiles
-
-| Platform | Stats |
-|---|---|
-| 🟠 **LeetCode** | Global Rank 884,206 · 150+ Problems Solved |
-| 🟢 **HackerRank** | C, C++, SQL, DBMS, Software Engineering |
-| 🔵 **SkillRack** | 1000+ Problems Solved · 14 Certificates |
-| 🟤 **CodeChef** | 100+ Problems Solved · 10 Certificates |
-
-> Add your profile links as badges, e.g. `[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)`
-
----
-
-### 🏆 Achievements
-
-- 🥈 **Second Prize** — Zorax Conclave 2026 @ Kongu Engineering College (₹5,000 · 50+ participants)
-- 🥈 **Second Prize** — National AR/VR Gaming 24-Hour Hackathon @ VSB Engineering (₹7,000 · 200+ participants)
-- 🥇 **First Prize** — Freshwarite Paper Presentation (2024)
-- 🏅 **Top 50 Finalist** — ZERODAY 24-Hour Startup Hackathon (2025)
-- 🎮 **Participant** — Global Game Jam 2026 (AR/VR Game Prototype)
-- 📢 **Campus Ambassador** — HCLTech (2026)
-- 👨‍🏫 **Student Mentor** — Sri Eshwar College of Engineering (2025)
-- 🧭 **Student Overall Coordinator** — HEC, Sri Eshwar College of Engineering (2025)
-
----
-
-### 📜 Certifications
-
-- Spoken Tutorial Project (C & C++) — **IIT Bombay** (2024)
-- IBM Artificial Intelligence Fundamentals — **IBM** (2026)
-- Mastering DSA in C/C++, Java Programming — **Udemy** (2025)
-- Master Data Management — **TCS** (2026)
-- MERN Stack Full-Stack Web Development — **Udemy** (2025)
-- AWS Certified Cloud Practitioner (CLF-C02) — **Udemy** (2026)
-
----
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_GITHUB&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=sanjayrams-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="180"/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayrams-26&theme=tokyonight&hide_border=true"
+height="180"/>
+
 </p>
 
-<p align="center"><i>⭐️ Thanks for visiting my profile — let's build something great together!</i></p>
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrams-26&layout=compact&theme=tokyonight&hide_border=true"
+height="170"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥈 **Second Prize**  
+Zorax Conclave 2026 — Kongu Engineering College
+
+🥈 **Second Prize**  
+National AR/VR Gaming 24-Hour Hackathon
+
+🥇 **First Prize**  
+Freshwarite Paper Presentation — 2024
+
+🏅 **Top 50 Finalist**  
+ZERODAY 24-Hour Startup Hackathon
+
+🎮 **Participant**  
+Global Game Jam 2026
+
+📢 **Campus Ambassador**  
+HCLTech — 2026
+
+👨‍🏫 **Student Mentor**  
+Sri Eshwar College of Engineering
+
+🧭 **Student Overall Coordinator**  
+HEC, Sri Eshwar College of Engineering
+
+---
+
+# 🧩 Coding Journey
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SkillRack-1000%2B%20Problems-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CodeChef-100%2B%20Problems-Brown?style=for-the-badge&logo=codechef"/>
+
+<img src="https://img.shields.io/badge/HackerRank-Programming%20Practice-2EC866?style=for-the-badge&logo=hackerrank"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+🏆 AWS Certified Cloud Practitioner
+
+🤖 IBM Artificial Intelligence Fundamentals
+
+📊 TCS Master Data Management
+
+💻 MERN Stack Full-Stack Development
+
+🧠 Mastering DSA in C/C++
+
+☕ Java Programming
+
+📚 C & C++ — IIT Bombay Spoken Tutorial
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayrams-26&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sanjayram.s2024cse@sece.ac.in">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/sanjayrams-26">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐️ "Code. Build. Learn. Improve. Repeat." 🚀
+
+</h3>
+
+<p align="center">
+
+Thanks for visiting my profile!  
+Let's build something amazing together 💙
+
+</p>
