@@ -1,9 +1,9 @@
-<!-- ============================================================
-     CUSTOM ANIMATED HERO  (assets/hero.svg — built for this profile)
-     ============================================================ -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=0,2,2,5,30&text=SANJAY%20RAM%20S&fontColor=ffffff&fontSize=58&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20DevOps%20%C2%B7%20AI%20Systems&descAlignY=53&descSize=18&animation=fadeIn" />
+
 <div align="center">
 
-<img src="file:///C:/Users/SANJAY%20RAM/Downloads/files%20(1)/hero.svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=00C7FF&center=true&vCenter=true&width=760&lines=Building+production-grade+web+platforms+%F0%9F%9A%80;React+%C2%B7+Node+%C2%B7+MongoDB+%C2%B7+Docker+%C2%B7+AWS+%E2%98%81%EF%B8%8F;Shipping+AI-powered+products+%F0%9F%A4%96;1%2C250%2B+DSA+problems+solved+%F0%9F%A7%A9;Always+learning.+Always+shipping.+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -15,48 +15,34 @@
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30" />
 
-<!-- ============================================================
-     ABOUT — custom animated terminal card
-     ============================================================ -->
-<table>
-<tr>
-<td width="55%" valign="top">
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" /> Hey, I'm Sanjay
 
-### 👋 Hey, I'm Sanjay
+<img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 I build **production-grade web platforms** end to end — from the React interface down to the Docker container it ships in.
 
-Right now I'm a **CSE undergrad** at Sri Eshwar College of Engineering (CGPA **8.70**), splitting my time between three things I genuinely can't put down: **full-stack engineering**, **cloud & DevOps automation**, and **applied AI**.
+I'm a **CSE undergrad** at Sri Eshwar College of Engineering (CGPA **8.70**), splitting my time between three things I can't put down: **full-stack engineering**, **cloud & DevOps automation**, and **applied AI**.
 
 Three internships in, my favourite part is still the same — taking something from a blank repo to something real people use.
 
+```yaml
+shipping:     SentinelX — multi-agent AI cyber defense
+deep_diving:  System Design · Kubernetes · Distributed Systems
+certified:    AWS Cloud Practitioner (CLF-C02)
+solved:       1,250+ DSA problems across 4 platforms
+open_to:      Internships · Open Source · Collaborations
+reach_me:     sanjayrams.offical@gmail.com
 ```
-▸ Shipping     SentinelX — multi-agent AI cyber defense
-▸ Deep-diving  System Design · Kubernetes · Distributed Systems
-▸ Certified    AWS Cloud Practitioner (CLF-C02)
-▸ Solved       1,250+ DSA problems across 4 platforms
-▸ Open to      Internships · Open Source · Collaborations
-```
 
-<a href="mailto:sanjayrams.offical@gmail.com"><img src="https://img.shields.io/badge/📬_Let's_talk-00C7FF?style=for-the-badge&logoColor=white" /></a>
+<br clear="right"/>
 
-</td>
-<td width="45%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30" />
 
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/terminal.svg" width="100%" alt="Terminal card" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
-
-<!-- ============================================================
-     EXPERIENCE
-     ============================================================ -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" /> Experience
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> Experience
 
 <table>
 <tr>
@@ -111,12 +97,10 @@ Delivered a production food-delivery platform.
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30" />
 
-<!-- ============================================================
-     PROJECTS
-     ============================================================ -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" /> Selected Work
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Selected Work
 
 <table>
 <tr>
@@ -148,7 +132,7 @@ A smart bin that identifies plastic bottles on deposit, validates them, and inst
 `Bottle recognition` `Deposit validation` `Reward engine`
 `Activity ledger` `User dashboard` `Redemption flow`
 
-Built as a complete circular-economy loop — hardware event, AI verification, reward, and a dashboard that makes recycling feel like a game.
+Built as a complete circular-economy loop — deposit event, AI verification, reward, and a dashboard that makes recycling feel like a game.
 
 <sub>**React.js** · Node.js · Express · MongoDB · **AI/ML** · AWS</sub>
 
@@ -197,12 +181,10 @@ An end-to-end ML product, not a notebook — a trained model wrapped in a served
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30" />
 
-<!-- ============================================================
-     TECH STACK
-     ============================================================ -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26" /> Toolkit
+<!-- ═══════════════════════ TOOLKIT ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> Toolkit
 
 <div align="center">
 
@@ -217,12 +199,10 @@ An end-to-end ML product, not a notebook — a trained model wrapped in a served
 
 </div>
 
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30" />
 
-<!-- ============================================================
-     STATS — adapts to the viewer's light/dark theme
-     ============================================================ -->
-## <img src="https://media.giphy.com/media/RN27hb0Gnq5MI/giphy.gif" width="26" /> By the Numbers
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/RN27hb0Gnq5MI/giphy.gif" width="28" /> By the Numbers
 
 <div align="center">
 
@@ -245,20 +225,14 @@ An end-to-end ML product, not a notebook — a trained model wrapped in a served
 
 <br/>
 
-<!-- Contribution snake — generated by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/output/snake-dark.svg" />
-  <img width="98%" src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/output/snake.svg" alt="Contribution snake" />
-</picture>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=sanjayrams-26&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30" />
 
-<!-- ============================================================
-     PROBLEM SOLVING
-     ============================================================ -->
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="26" /> Problem Solving
+<!-- ═══════════════════════ PROBLEM SOLVING ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28" /> Problem Solving
 
 <div align="center">
 
@@ -278,16 +252,14 @@ An end-to-end ML product, not a notebook — a trained model wrapped in a served
 
 </div>
 
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30" />
 
-<!-- ============================================================
-     ACHIEVEMENTS
-     ============================================================ -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" /> Recognition
+<!-- ═══════════════════════ RECOGNITION ═══════════════════════ -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> Recognition
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
 **🏆 Competitions**
 
@@ -301,7 +273,7 @@ An end-to-end ML product, not a notebook — a trained model wrapped in a served
 | 🎮 | **Participant** | Global Game Jam 48hr, SECE · 2026 |
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 **🎖️ Leadership & Ambassadorships**
 
@@ -327,24 +299,22 @@ An end-to-end ML product, not a notebook — a trained model wrapped in a served
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,2,5,30" />
 
-<!-- ============================================================
-     FOOTER
-     ============================================================ -->
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
 
 ### Let's build something worth shipping.
 
-I'm actively looking for **internships and open-source collaborations** in full-stack, DevOps and applied AI. If you're hiring — or just want to talk shop — my inbox is open.
+I'm actively looking for **internships and open-source collaborations** in full-stack, DevOps and applied AI.<br/>If you're hiring — or just want to talk shop — my inbox is open.
 
 <a href="mailto:sanjayrams.offical@gmail.com"><img src="https://img.shields.io/badge/sanjayrams.offical@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/footer.svg" width="100%" />
+<br/>
 
 <sub>⭐ If something here was useful, a star goes a long way.</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,2,2,5,30" />
