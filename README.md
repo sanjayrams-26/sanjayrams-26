@@ -1,300 +1,350 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=Sanjay%20Ram%20S&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18&animation=fadeIn" />
+<!-- ============================================================
+     CUSTOM ANIMATED HERO  (assets/hero.svg — built for this profile)
+     ============================================================ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/sanjayrams-26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+AWS+%7C+CI%2FCD+%E2%98%81%EF%B8%8F;Building+Scalable+Web+Applications+%F0%9F%8C%90;Exploring+AI+%2B+Machine+Learning+%F0%9F%A4%96;Always+Learning%2C+Building+%26+Shipping+%F0%9F%94%A5" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sanjayrams.offical@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://REPLACE_WITH_YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/sanjayrams-26"><img src="https://img.shields.io/github/followers/sanjayrams-26?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sanjayrams-26&label=Profile+Views&style=for-the-badge&color=0e75b6" />
-</p>
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/hero.svg" width="100%" alt="Sanjay Ram S — Full Stack Developer, DevOps, AI Systems" />
 
 <br/>
 
-<!-- ==================== ABOUT ==================== -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
+<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sanjayrams.offical@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://REPLACE_WITH_YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/u/REPLACE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<img src="https://komarev.com/ghpvc/?username=sanjayrams-26&label=views&style=for-the-badge&color=0b1020" />
 
-<img align="right" width="330" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
 
-```yaml
-name: Sanjay Ram S
-role: Full Stack Developer (MERN) + DevOps
-education: B.E. Computer Science & Engineering
-college: Sri Eshwar College of Engineering (2024 – 2028)
-cgpa: 8.70
+<br/>
 
-currently_building: ["AI-driven web platforms", "Cloud-native deployments"]
-currently_learning: ["System Design", "Kubernetes", "Advanced TypeScript"]
-interests: ["Full Stack", "DevOps", "AI/ML", "Software Testing & QA"]
-open_to: ["Internships", "Open Source", "Collaborations"]
-reach_me_at: "sanjayrams.offical@gmail.com"
-fun_fact: "1000+ problems solved and still counting."
-```
-
-<br clear="right"/>
-
----
-
-<!-- ==================== EXPERIENCE ==================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Experience
-
+<!-- ============================================================
+     ABOUT — custom animated terminal card
+     ============================================================ -->
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="55%" valign="top">
 
-### ⚙️ DevOps Intern
-**vSphere Technologies** · `2026`
+### 👋 Hey, I'm Sanjay
 
-- Containerized apps with **Docker**
-- Deployed on **AWS** & Linux servers
-- Built **CI/CD** pipelines with GitHub Actions
-- Automated software delivery workflows
+I build **production-grade web platforms** end to end — from the React interface down to the Docker container it ships in.
 
-`Linux` `Docker` `AWS` `CI/CD`
+Right now I'm a **CSE undergrad** at Sri Eshwar College of Engineering (CGPA **8.70**), splitting my time between three things I genuinely can't put down: **full-stack engineering**, **cloud & DevOps automation**, and **applied AI**.
 
-</td>
-<td width="33%" valign="top">
+Three internships in, my favourite part is still the same — taking something from a blank repo to something real people use.
 
-### 🚀 Full Stack Intern
-**Innoknowvex Technologies** · `2026`
+```
+▸ Shipping     SentinelX — multi-agent AI cyber defense
+▸ Deep-diving  System Design · Kubernetes · Distributed Systems
+▸ Certified    AWS Cloud Practitioner (CLF-C02)
+▸ Solved       1,250+ DSA problems across 4 platforms
+▸ Open to      Internships · Open Source · Collaborations
+```
 
-- Full-lifecycle product development
-- Scalable **REST APIs** + DB optimization
-- Agile sprints, code reviews, debugging
-- Responsive, accessible UI development
-
-`React` `Node` `Express` `MongoDB`
+<a href="mailto:sanjayrams.offical@gmail.com"><img src="https://img.shields.io/badge/📬_Let's_talk-00C7FF?style=for-the-badge&logoColor=white" /></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="45%" valign="top">
 
-### 💻 MERN Developer
-**Litz Tech India Pvt. Ltd.** · `2025 – 2026`
-
-- Full-stack food delivery platform
-- **JWT** role-based authentication
-- Real-time order tracking via Socket.IO
-- **Stripe** payment integration
-
-`MERN` `Socket.IO` `Stripe` `AWS`
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/terminal.svg" width="100%" alt="Terminal card" />
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
 
-<!-- ==================== PROJECTS ==================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured Projects
+<!-- ============================================================
+     EXPERIENCE
+     ============================================================ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" /> Experience
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h4>⚙️ DevOps Intern</h4>
+
+**vSphere Technologies** · `2026`
+
+Owned containerization and delivery automation for internal applications.
+
+- Dockerized services and cut deploy friction on Linux hosts
+- Provisioned and maintained **AWS** infrastructure
+- Built **GitHub Actions** CI/CD pipelines end to end
+- Debugged production incidents and release failures
+
+<sub>`Linux` `Docker` `AWS` `CI/CD` `Git`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<h4>🚀 Full Stack Intern</h4>
+
+**Innoknowvex Technologies** · `2026`
+
+Full-lifecycle feature delivery inside an Agile team.
+
+- Built scalable **REST APIs** with Node + Express
+- Optimized MongoDB queries and schema design
+- Shipped responsive React interfaces
+- Ran sprint planning, code reviews and QA passes
+
+<sub>`React` `Node.js` `Express` `MongoDB` `JWT`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<h4>💻 MERN Developer</h4>
+
+**Litz Tech India Pvt. Ltd.** · `2025 – 2026`
+
+Delivered a production food-delivery platform.
+
+- Role-based **JWT** auth across three user types
+- Real-time order tracking over **Socket.IO**
+- **Stripe** payment integration, live
+- Deployed and monitored on AWS
+
+<sub>`MERN` `Socket.IO` `Stripe` `AWS`</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
+
+<!-- ============================================================
+     PROJECTS
+     ============================================================ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" /> Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ SentinelX — Autonomous AI Cyber Defense
-> A multi-agent AI platform that simulates a full Security Operations Center (SOC).
+### 🛡️ SentinelX
+**Autonomous AI Cyber Defense Platform**
 
-- 🤖 Automated threat detection & malware analysis
-- 🌐 Live network monitoring over WebSockets
-- 🎣 Phishing investigation & vulnerability scanning
-- 🧾 Incident response, forensics & compliance auditing
-- 📊 Executive security reporting dashboards
+A multi-agent system that simulates a full Security Operations Center — agents coordinate to detect, triage and report threats without a human in the loop.
 
-`React 18` `TypeScript` `Vite` `Zustand` `FastAPI` `Python`
+`Threat detection` `Malware analysis` `Phishing triage`
+`Vulnerability scanning` `Digital forensics` `Compliance audit`
 
-<a href="https://github.com/sanjayrams-26"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+Live network monitoring streams over WebSockets into a Recharts command dashboard, with executive-level reporting layered on top.
+
+<sub>**React 18** · **TypeScript** · Vite · Zustand · FastAPI · Python · WebSockets</sub>
+
+<a href="https://github.com/sanjayrams-26"><img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ♻️ Reverse Vending Machine
-> AI-enabled plastic recycling system that rewards users with digital **GreenCoins**.
+**AI-Enabled Plastic Recycling Reward System**
 
-- 🔍 AI-based bottle identification & validation
-- 🪙 Automated reward crediting engine
-- 📈 User dashboard for recycling activity
-- 🌱 Sustainable waste-management workflow
-- ☁️ Deployed on AWS infrastructure
+A smart bin that identifies plastic bottles on deposit, validates them, and instantly credits the user with digital **GreenCoins**.
 
-`React.js` `Node.js` `Express` `MongoDB` `AI/ML` `AWS`
+`Bottle recognition` `Deposit validation` `Reward engine`
+`Activity ledger` `User dashboard` `Redemption flow`
 
-<a href="https://github.com/sanjayrams-26"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+Built as a complete circular-economy loop — hardware event, AI verification, reward, and a dashboard that makes recycling feel like a game.
+
+<sub>**React.js** · Node.js · Express · MongoDB · **AI/ML** · AWS</sub>
+
+<a href="https://github.com/sanjayrams-26"><img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 SkillBridge — Internship Matching Platform
-> Connecting students with internships, mentors and recruiters.
+### 🎯 SkillBridge
+**Internship & Skill Matching Platform**
 
-- 🔐 Role-based access control (student / mentor / recruiter)
-- 💬 Real-time chat powered by Socket.IO
-- 🧠 Skill assessments & smart matching
-- 📌 End-to-end application tracking
-- 📊 Analytics dashboards with Recharts
+Connects students, mentors and recruiters through skill-based matching rather than keyword spam.
 
-`React` `Vite` `Node.js` `MongoDB` `Socket.IO` `JWT`
+`Role-based access` `Skill assessments` `Live chat`
+`Application tracking` `Recruiter analytics`
 
-<a href="https://github.com/sanjayrams-26/SkillBridge"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+Real-time messaging on Socket.IO, JWT-secured multi-role routing, and analytics dashboards for every stakeholder.
+
+<sub>**React** · Vite · Node.js · Express · MongoDB · Socket.IO · Recharts</sub>
+
+<a href="https://github.com/sanjayrams-26/SkillBridge"><img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Brain Tumor Detection System
-> Deep-learning web app for tumor detection from medical scans.
+### 🧠 Brain Tumor Detection
+**Deep Learning Diagnostic Assistant**
 
-- 🧬 CNN-based classification model
-- 🖼️ OpenCV image preprocessing pipeline
-- ⚡ Real-time inference via Flask API
-- 📊 Confidence-scored predictions
-- 📈 Model performance tracking
+Detects tumors in MRI scans using a convolutional neural network, returning confidence-scored predictions in real time.
 
-`Python` `TensorFlow` `CNN` `OpenCV` `Flask` `React`
+`CNN classifier` `OpenCV preprocessing` `Flask inference API`
+`Confidence scoring` `Performance tracking`
 
-<a href="https://github.com/sanjayrams-26"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+An end-to-end ML product, not a notebook — a trained model wrapped in a served API behind a React interface.
+
+<sub>**Python** · TensorFlow · **CNN** · OpenCV · Flask · React</sub>
+
+<a href="https://github.com/sanjayrams-26"><img src="https://img.shields.io/badge/Repository-0B1020?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
 
-<!-- ==================== TECH STACK ==================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Tech Stack
+<!-- ============================================================
+     TECH STACK
+     ============================================================ -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26" /> Toolkit
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css&perline=8" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,redux&perline=8" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres&perline=8" />
-
-**Cloud, DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,git,github,postman,vscode,figma,vercel&perline=8" />
+<table>
+<tr><td align="center"><sub><b>LANGUAGES</b></sub><br/><img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&perline=6" /></td></tr>
+<tr><td align="center"><sub><b>FRONTEND</b></sub><br/><img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,redux,html,css&perline=7" /></td></tr>
+<tr><td align="center"><sub><b>BACKEND &amp; DATA</b></sub><br/><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,mongodb,mysql,postgres&perline=7" /></td></tr>
+<tr><td align="center"><sub><b>AI / ML</b></sub><br/><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" /></td></tr>
+<tr><td align="center"><sub><b>CLOUD &amp; DEVOPS</b></sub><br/><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,nginx,vercel&perline=7" /></td></tr>
+<tr><td align="center"><sub><b>TOOLS</b></sub><br/><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&perline=5" /></td></tr>
+</table>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-## <img src="https://media.giphy.com/media/RN27hb0Gnq5MI/giphy.gif" width="28"> GitHub Analytics
+<!-- ============================================================
+     STATS — adapts to the viewer's light/dark theme
+     ============================================================ -->
+## <img src="https://media.giphy.com/media/RN27hb0Gnq5MI/giphy.gif" width="26" /> By the Numbers
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjayrams-26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrams-26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanjayrams-26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=00c7ff&title_color=00c7ff&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjayrams-26&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrams-26&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00c7ff&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrams-26&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" />
+</picture>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sanjayrams-26&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=sanjayrams-26&theme=tokyonight&hide_border=true&background=00000000&ring=00C7FF&fire=00FFA3&currStreakLabel=00C7FF" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayrams-26&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayrams-26&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00C7FF&line=7C5CFF&point=00FFA3&area=true" />
 
 <br/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=sanjayrams-26&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<!-- Contribution snake — generated by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/output/snake-dark.svg" />
+  <img width="98%" src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/output/snake.svg" alt="Contribution snake" />
+</picture>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+<!-- ============================================================
+     PROBLEM SOLVING
+     ============================================================ -->
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="26" /> Problem Solving
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/output/snake.svg" alt="Snake animation" />
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>1000+</h3><sub><b>SkillRack</b><br/>200+ Bronze · 14 Certificates</sub></td>
+<td align="center" width="25%"><h3>150+</h3><sub><b>LeetCode</b><br/>DSA &amp; Problem Solving</sub></td>
+<td align="center" width="25%"><h3>100+</h3><sub><b>CodeChef</b><br/>Competitive Practice</sub></td>
+<td align="center" width="25%"><h3>4</h3><sub><b>HackerRank</b><br/>C · C++ · SQL · DBMS</sub></td>
+</tr>
+</table>
+
+<a href="https://leetcode.com/u/REPLACE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=REPLACE_ID"><img src="https://img.shields.io/badge/SkillRack-4CAF50?style=for-the-badge" /></a>
+<a href="https://www.codechef.com/users/REPLACE_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/REPLACE_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
 
-<!-- ==================== ACHIEVEMENTS ==================== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Achievements
+<!-- ============================================================
+     ACHIEVEMENTS
+     ============================================================ -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" /> Recognition
 
-| 🏅 | Achievement | Event / Organization | Year |
-|:--:|---|---|:--:|
-| 🥇 | **First Place** | Freshwarite Paper Presentation, Sri Eshwar College of Engineering | 2024 |
-| 🥈 | **Second Prize** — ₹7,000 among 200+ participants | National AR/VR Gaming 24-Hour Hackathon, VSB College of Engineering | 2026 |
-| 🥉 | **Third Prize** — ₹5,000 | Zorax Conclave 2.0, Kongu Engineering College | 2026 |
-| 🏅 | **Top 50 Finalist** | ZERODAY 24-Hour Startup Hackathon, Sri Eshwar College of Engineering | 2025 |
-| ✅ | **Shortlisted — Round 1** | Adobe University Hackathon | 2026 |
-| 🎮 | **Participant** | Global Game Jam 48-Hour Hackathon | 2026 |
-| 🌐 | **Participant** | Web Development Hackathon, VSB College of Engineering | 2026 |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎖️ Ambassadorships & Leadership
+**🏆 Competitions**
 
-<p>
-<img src="https://img.shields.io/badge/Campus_Ambassador-HCLTech-0F6CBD?style=flat-square" />
-<img src="https://img.shields.io/badge/Campus_Ambassador-Tata_Imagination_Challenge-486AAE?style=flat-square" />
-<img src="https://img.shields.io/badge/Campus_Ambassador-Paytm-00BAF2?style=flat-square" />
+| | Achievement | Where |
+|:--:|---|---|
+| 🥇 | **First Place** | Freshwarite Paper Presentation, SECE · 2024 |
+| 🥈 | **Second Prize** — ₹7,000 / 200+ entrants | National AR/VR Gaming Hackathon, VSB CETC · 2026 |
+| 🥉 | **Third Prize** — ₹5,000 | Zorax Conclave 2.0, Kongu Engineering · 2026 |
+| 🏅 | **Top 50 Finalist** | ZERODAY Startup Hackathon, SECE · 2025 |
+| ✅ | **Round 1 Shortlist** | Adobe University Hackathon · 2026 |
+| 🎮 | **Participant** | Global Game Jam 48hr, SECE · 2026 |
+
+</td>
+<td width="50%" valign="top">
+
+**🎖️ Leadership & Ambassadorships**
+
+<img src="https://img.shields.io/badge/Student_Overall_Coordinator-SECE-7C5CFF?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Student_Mentor-SECE-00A97F?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Campus_Ambassador-HCLTech-0F6CBD?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Campus_Ambassador-Tata_Imagination-486AAE?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Campus_Ambassador-Paytm-00BAF2?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/Campus_Champion-Unstop-1B3A57?style=flat-square" />
-<img src="https://img.shields.io/badge/Student_Overall_Coordinator-SECE-6A0DAD?style=flat-square" />
-<img src="https://img.shields.io/badge/Student_Mentor-SECE-2E8B57?style=flat-square" />
-</p>
-
----
-
-<!-- ==================== CODING PROFILES ==================== -->
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28"> Coding Journey
-
-<div align="center">
-
-<a href="https://leetcode.com/REPLACE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.skillrack.com/"><img src="https://img.shields.io/badge/SkillRack-1000%2B_Solved_·_14_Certificates-4CAF50?style=for-the-badge" /></a>
-<a href="https://www.codechef.com/users/REPLACE_USERNAME"><img src="https://img.shields.io/badge/CodeChef-100%2B_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/REPLACE_USERNAME"><img src="https://img.shields.io/badge/HackerRank-C_·_C%2B%2B_·_SQL_·_DBMS-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-
-</div>
-
----
-
-<!-- ==================== CERTIFICATIONS ==================== -->
-## <img src="https://media.giphy.com/media/YPbrqpy1ay4vC/giphy.gif" width="28"> Certifications
-
-| Certification | Issuer | Year |
-|---|---|:--:|
-| ☁️ AWS Certified Cloud Practitioner (CLF-C02) | Udemy | 2026 |
-| 🤖 AI Skills for the Future Masterclass | HCLTech × The Economic Times | 2026 |
-| 💻 The Complete Full-Stack Web Development Bootcamp | Udemy | 2025 |
-| ⚛️ Modern MERN Stack — React, Node, Express, MongoDB | Udemy | 2025 |
-| 🧠 Mastering DSA in C/C++ | Udemy | 2025 |
-| 🐍 Advanced Python Programming | Nuture Info | 2025 |
-| 📚 C & C++ Programming | Spoken Tutorial, IIT Bombay | 2024 |
-| 🤖 IBM Artificial Intelligence Fundamentals | IBM | — |
-
----
-
-<!-- ==================== CONNECT ==================== -->
-## <img src="https://media.giphy.com/media/Nx0rz3jvlpmSLrLQr1/giphy.gif" width="28"> Let's Connect
-
-<div align="center">
-
-I'm always open to interesting conversations, collaborations and internship opportunities.
-
-<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sanjayrams.offical@gmail.com"><img src="https://img.shields.io/badge/Email-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sanjayrams-26"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-**💡 Code. Build. Break. Learn. Repeat. 🚀**
+**📜 Key Certifications**
 
-⭐ *Thanks for stopping by — let's build something worth shipping.*
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_CLF--C02-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/IBM_AI_Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/AI_Skills_Masterclass-HCLTech_×_ET-0F6CBD?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Full--Stack_Web_Dev_Bootcamp-A435F0?style=flat-square&logo=udemy&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Mastering_DSA_in_C%2FC%2B%2B-A435F0?style=flat-square&logo=udemy&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/C_%26_C%2B%2B-IIT_Bombay_Spoken_Tutorial-00618A?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/divider.svg" width="100%" />
+
+<!-- ============================================================
+     FOOTER
+     ============================================================ -->
+<div align="center">
+
+### Let's build something worth shipping.
+
+I'm actively looking for **internships and open-source collaborations** in full-stack, DevOps and applied AI. If you're hiring — or just want to talk shop — my inbox is open.
+
+<a href="mailto:sanjayrams.offical@gmail.com"><img src="https://img.shields.io/badge/sanjayrams.offical@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/footer.svg" width="100%" />
+
+<sub>⭐ If something here was useful, a star goes a long way.</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,2,2,5,30" />
