@@ -3,7 +3,7 @@
      ============================================================ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanjayrams-26/sanjayrams-26/main/assets/hero.svg" width="100%" alt="Sanjay Ram S — Full Stack Developer, DevOps, AI Systems" />
+<img src="file:///C:/Users/SANJAY%20RAM/Downloads/files%20(1)/hero.svg" />
 
 <br/>
 
